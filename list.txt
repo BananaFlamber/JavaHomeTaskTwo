@@ -1,0 +1,6 @@
+.git
+.idea
+list.txt
+out
+Program.java
+Program2.java
